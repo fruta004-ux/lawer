@@ -84,24 +84,26 @@ export default function Footer() {
             <h4 className="font-bold text-foreground mb-6">연락처</h4>
             <ul className="space-y-3 text-muted">
               <li>
-                <span className="text-foreground">전화:</span>{" "}
-                <a href="tel:02-1234-5678" className="hover:text-gold transition-colors">
-                  02-1234-5678
+                <span className="text-foreground">직통:</span>{" "}
+                <a href="tel:010-4118-2363" className="hover:text-gold transition-colors">
+                  010-4118-2363
                 </a>
               </li>
               <li>
-                <span className="text-foreground">팩스:</span> 02-1234-5679
+                <span className="text-foreground">팩스:</span> 070-7500-2584
               </li>
               <li>
                 <span className="text-foreground">이메일:</span>{" "}
-                <a href="mailto:contact@jplaw.co.kr" className="hover:text-gold transition-colors">
-                  contact@jplaw.co.kr
+                <a href="mailto:jsb5959@daum.net" className="hover:text-gold transition-colors">
+                  jsb5959@daum.net
                 </a>
               </li>
               <li>
                 <span className="text-foreground">주소:</span>
                 <br />
-                서울시 서초구 법원로 00, 00빌딩 5층
+                경기도 수원시 영통구 광교중앙로 248번길 101, 401호
+                <br />
+                (하동 백련법조프라자, 수원지방법원 앞)
               </li>
             </ul>
           </div>

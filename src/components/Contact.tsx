@@ -21,31 +21,31 @@ export default function Contact() {
   const contactInfo = [
     {
       icon: Phone,
-      label: "전화 상담",
-      value: "02-1234-5678",
-      href: "tel:02-1234-5678",
-      description: "평일 09:00 - 18:00",
+      label: "직통 상담",
+      value: "010-4118-2363",
+      href: "tel:010-4118-2363",
+      description: "사무국장 전석봉 직통",
     },
     {
       icon: MessageCircle,
       label: "카카오톡",
-      value: "정평법률사무소",
-      href: "https://pf.kakao.com/_example",
+      value: "전석봉 사무국장",
+      href: "#",
       description: "24시간 문의 가능",
     },
     {
       icon: Mail,
       label: "이메일",
-      value: "contact@jplaw.co.kr",
-      href: "mailto:contact@jplaw.co.kr",
+      value: "jsb5959@daum.net",
+      href: "mailto:jsb5959@daum.net",
       description: "24시간 내 답변",
     },
     {
       icon: MapPin,
       label: "오시는 길",
-      value: "서울시 서초구 법원로 00",
+      value: "수원시 영통구 광교중앙로 248번길 101",
       href: "https://map.naver.com",
-      description: "서초역 3번 출구 도보 5분",
+      description: "수원지방법원 앞 (백련법조프라자 401호)",
     },
   ];
 

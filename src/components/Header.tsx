@@ -66,11 +66,11 @@ export default function Header() {
           {/* CTA Button */}
           <div className="hidden lg:flex items-center gap-4">
             <a
-              href="tel:02-1234-5678"
+              href="tel:010-4118-2363"
               className="flex items-center gap-2 text-gold hover:text-gold-light transition-colors"
             >
               <Phone size={18} />
-              <span className="font-semibold">02-1234-5678</span>
+              <span className="font-semibold">010-4118-2363</span>
             </a>
             <a href="#contact" className="btn-primary text-sm">
               무료 상담 신청
